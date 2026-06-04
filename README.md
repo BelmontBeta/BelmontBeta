@@ -48,5 +48,5 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e código
 
 ## 📫 Como falar comigo?
 
-- Email: [seu-email@email.com](mailto:seu-email@email.com)  
-- LinkedIn: [SeuNomeNoLinkedin](https://www.linkedin.com/in/seu-nome-no-linkedin/)
+- Email: [belmontcaiocontato@gmail.com](mailto:belmontcaiocontato@gmail.com)  
+- LinkedIn: [Caio Belmont]([https://www.linkedin.com/in/seu-nome-no-linkedin/](https://www.linkedin.com/in/caio-belmont-29b6191aa/))
