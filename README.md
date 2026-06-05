@@ -21,6 +21,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e código
 - **Linguagens Principais:**  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 - **Frameworks e Ferramentas:**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -46,5 +47,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e código
 
 ## 📫 Como falar comigo?
 
-- Email: [belmontcaiocontato@gmail.com](mailto:belmontcaiocontato@gmail.com)  
-- LinkedIn: [Caio Belmont]([https://www.linkedin.com/in/seu-nome-no-linkedin/](https://www.linkedin.com/in/caio-belmont-29b6191aa/))
+<a href = "mailto:belmontcaiocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caio-belmont/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=050E89&section=footer&reversal=true&descAlign=60"/>
